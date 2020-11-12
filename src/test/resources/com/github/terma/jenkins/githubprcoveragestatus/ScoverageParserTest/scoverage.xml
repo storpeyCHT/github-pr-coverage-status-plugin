@@ -1,0 +1,19 @@
+<scoverage statement-count="3" statements-invoked="2" statement-rate="66.67" branch-rate="100.0" version="1.0" timestamp="1605193341884">
+<packages>
+<package name="MyProject" statement-count="3" statements-invoked="2" statement-rate="66.67">
+<classes>
+<class name="MyProject.MyClass" filename="myproject/myclass.scala" statement-count="3" statements-invoked="2" statement-rate="66.66" branch-rate="100.00">
+<methods>
+<method name="com.cht/CHTMap/isAbsent" statement-count="3" statements-invoked="2" statement-rate="66.66" branch-rate="100.00">
+<statements>
+<statement package="MyProject" class="MyClass" class-type="Class" full-class-name="MyProject.MyClass" source="/home/MyProject/MyClass.scala" method="isAbsent" start="632" end="633" line="20" branch="false" invocation-count="1" ignored="false"> </statement>
+<statement package="MyProject" class="MyClass" class-type="Class" full-class-name="MyProject.MyClass" source="/home/MyProject/MyClass.scala" method="isAbsent" start="625" end="655" line="20" branch="false" invocation-count="1" ignored="false"> </statement>
+<statement package="MyProject" class="MyClass" class-type="Class" full-class-name="MyProject.MyClass" source="/home/MyProject/MyClass.scala" method="isAbsent" start="646" end="655" line="20" branch="false" invocation-count="0" ignored="false"> </statement>
+</statements>
+</method>
+</methods>
+</class>
+</classes>
+</package>
+</packages>
+</scoverage>
